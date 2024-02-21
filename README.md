@@ -1,6 +1,6 @@
 # Capstone Project 1
 
-Case Study: Data Nilai Siswa
+Case Study: Data Nilai Siswa1
 
 ## Fitur 1 (Lihat Data)
 Fungsi data_siswa(), ketika dijalankan akan menampilkan sub menu pada data_siswa() dan meminta user untuk menginput angka
