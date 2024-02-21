@@ -175,18 +175,18 @@ def menu_utama():
     while True:
         print("\nSelamat Datang di Database SD Budi Pekerti")
         print(menu)
-        input = input("\nSilakan masukkan angka: ")
-        if input == '1':
+        input_menu = input("\nSilakan masukkan angka: ")
+        if input_menu == '1':
             data_siswa()
-        elif input == '2':
+        elif input_menu == '2':
             cari_siswa()
-        elif input == '3':
+        elif input_menu == '3':
             tambah_data()
-        elif input == '4':
+        elif input_menu == '4':
             ubah_data()
-        elif input == '5':
+        elif input_menu == '5':
             hapus_data()
-        elif input == '6':
+        elif input_menu == '6':
             print_warna("Terima Kasih Telah Mengakses Database Kami :)", "1")
             quit()
         else:
