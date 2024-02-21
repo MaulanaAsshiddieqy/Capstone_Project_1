@@ -44,7 +44,7 @@ def data_siswa():
         elif input1 == '2':
             menu_utama()
         else:
-            print_warna("Invalid! Silahkan Coba Lagi1", "1;31")
+            print_warna("Invalid! Silahkan Coba Lagi", "1;31")
 
 # Fitur Pencarian Data
 def cari_siswa():
@@ -67,7 +67,7 @@ def cari_siswa():
         elif input2 == '2':
             menu_utama()
         else:
-            print_warna("Invalid! Silahkan Coba Lagi1", "1;31")
+            print_warna("Invalid! Silahkan Coba Lagi", "1;31")
 
 # Fitur Tambah Data
 def tambah_data():
@@ -97,7 +97,7 @@ def tambah_data():
         elif input3 == '2':
             menu_utama()
         else:
-            print_warna("Invalid! Silahkan Coba Lagi1", "1;31")
+            print_warna("Invalid! Silahkan Coba Lagi", "1;31")
 
 # Fitur Ubah Data
 def ubah_data():
@@ -142,7 +142,7 @@ def ubah_data():
         elif input4 == '2':
             menu_utama()
         else:
-            print_warna("Invalid! Silahkan Coba Lagi1", "1;31")
+            print_warna("Invalid! Silahkan Coba Lagi", "1;31")
 
 # Fitur Hapus Data
 def hapus_data():
@@ -168,7 +168,7 @@ def hapus_data():
         elif input5 == '2':
             menu_utama()
         else:
-            print_warna("Invalid! Silahkan Coba Lagi1", "1;31")
+            print_warna("Invalid! Silahkan Coba Lagi", "1;31")
 
 # Fitur Menu Utama
 def menu_utama():
